@@ -18,5 +18,5 @@ Informe dois valores para obter os demais. Valores a inserir:
 
 Observações:
 - Passo e Velocidade são conversões diretas, portanto essa combinação é insuficiente.
-  - Devido a isso, se forem informados os dois de forma não equivalente, o Passo terá preferencia no calcúlo.
+  - Devido a isso, se forem informados os dois de forma não equivalente, o Passo terá preferencia no cálculo.
 - Informar 3 valores é redundante.
