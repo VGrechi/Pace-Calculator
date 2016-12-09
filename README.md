@@ -1,5 +1,5 @@
 # Pace-Calculator
-Calculadora simples para corredores. Desenvolvido apenas para Android.
+Calculadora simples para corredores. Desenvolvido apenas para Android. Versão 1.0
 
 Google Play: https://play.google.com/store/apps/details?id=com.grechi.pacer&hl=pt_BR
 
