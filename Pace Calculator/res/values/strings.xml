@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pace Calculator</string>
+    <string name="icone">icone do app</string>
+        
+    <string name="Texto1">Insira dois valores abaixo</string>
+    <string name="Texto2"> e calcule o restante.</string>
+    <string name="Pace">Passo</string>
+    <string name="Velocidade">Velocidade</string>
+    <string name="Tempo">Tempo</string>
+    <string name="Distancia">Distância</string>
+    
+    <string name="Calcular">Calcular</string>
+    <string name="Limpar">Limpar</string>
+    <string name="Voltar">Nova Consulta</string>
+    
+    <string name="horas">h</string>
+    <string name="minutos">m</string>
+    <string name="segundos">s</string>
+    <string name="quilometros">km</string>
+    <string name="quilometrosPorHora">km/h</string>
+    
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#DDDDDD</color>
+    <color name="blue">#3FA4DA</color>
+    <color name="orange">#F3A883</color>
+    
+
+</resources>
