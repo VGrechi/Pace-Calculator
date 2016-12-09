@@ -5,10 +5,13 @@ Google Play: https://play.google.com/store/apps/details?id=com.grechi.pacer&hl=p
 Informe dois valores para obter os demais. Valores a inserir:
 # Passo
 - minutos por quilômetro (mim/km)
+
 # Velocidade
 = quilômetros por hora (km/h)
+
 # Tempo
 - horas, minutos e segundos
+
 # Distância
 - quilômetros (km)
 
