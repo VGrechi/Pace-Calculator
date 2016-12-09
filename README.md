@@ -7,7 +7,7 @@ Informe dois valores para obter os demais. Valores a inserir:
 - minutos por quilômetro (mim/km)
 
 # Velocidade
-= quilômetros por hora (km/h)
+- quilômetros por hora (km/h)
 
 # Tempo
 - horas, minutos e segundos
